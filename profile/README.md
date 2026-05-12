@@ -4,9 +4,6 @@ Architect The Future, Reflection of thoughts.
 
 A high-performance computational engine for generative schematic capture, constraint-driven placement, and complex parametric routing.
 
-[![Docs Quality](https://github.com/Pratibim-Lab/.github/actions/workflows/docs-quality.yml/badge.svg?branch=main)](https://github.com/Pratibim-Lab/.github/actions/workflows/docs-quality.yml)
-[![Link Integrity](https://github.com/Pratibim-Lab/.github/actions/workflows/link-check.yml/badge.svg?branch=main)](https://github.com/Pratibim-Lab/.github/actions/workflows/link-check.yml)
-
 ## The Core
 
 ### Spatial Generation
@@ -70,41 +67,5 @@ The platform is designed as an open ecosystem with modular libraries that can be
 - `@pratibim/router-physics` — force-directed and push-and-shove routing kernels
 - `@pratibim/drc-runtime` — real-time rule checks in WASM workers
 - `@pratibim/sim-stack` — SPICE bridge and thermal-field abstractions
-
-## CI/CD and Quality Automation
-
-To keep documentation and collaboration standards production-ready, this repository includes:
-
-- **Markdown Quality Pipeline** for formatting and style checks
-- **Link Integrity Pipeline** for automated hyperlink validation
-
-These checks run on pull requests and pushes to `main`.
-
-## Initialize
-
-Step into the environment and commence synthesis.
-
-## Navigation
-
-### Product
-
-- Features
-- Documentation
-- AI Agents
-- Launch App
-
-### Community
-
-- Community
-- Discussions
-- Careers
-- Contact
-
-### Connect
-
-- GitHub
-- Twitter / X
-- Discord
-- All Social
 
 © 2026 PRATIBIM EDA ENGINE.
